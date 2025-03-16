@@ -1,6 +1,6 @@
 # 💻 Faraz Maqsood – Full Stack Developer
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
+![Profile Banner](https://github.com/codewithfaraz/codewithfaraz/blob/main/723f4891-e8e3-4ecd-a2a2-0907611570e4.png)
 
 ## 👋 Hey there!
 I'm **Faraz Maqsood**, a passionate **Full Stack Developer** 🚀 with experience in building modern, scalable, and high-performance web and mobile applications. I love crafting elegant solutions, optimizing performance, and experimenting with cutting-edge technologies.
