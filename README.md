@@ -29,9 +29,8 @@ I love working on:
 - 🖥️ SaaS products for individuals and businesses
 
 ## 📫 Let's Connect!
-- 🌐 [Portfolio Website](https://farazdev.site) _(Coming Soon)_
-- 🐦 [Twitter](https://twitter.com/faraz_2001)
-- 💼 [LinkedIn](https://linkedin.com/in/y)
+- 🌐 [Portfolio Website](https://farazdev.site)
+- 🐦 [Twitter](https://x.com/faraz_2001)
 - 📂 [GitHub](https://github.com/codewithfaraz)
 - 📧 farazmaqsood97@gmail.com
 
