@@ -3,21 +3,20 @@
 ![Profile Banner](https://github.com/codewithfaraz/codewithfaraz/blob/main/723f4891-e8e3-4ecd-a2a2-0907611570e4.png)
 
 ## 👋 Hey there!
-I'm **Faraz Maqsood**, a passionate **Full Stack Developer** 🚀 with experience in building modern, scalable, and high-performance web and mobile applications. I love crafting elegant solutions, optimizing performance, and experimenting with cutting-edge technologies.
+I'm **Faraz Maqsood**, a passionate **Full Stack Developer** 🚀 with experience in building modern, scalable, and high-performance web applications. I love crafting elegant solutions, optimizing performance, and experimenting with cutting-edge technologies.
 
 ## 🛠️ Tech Stack
 ### Frontend
-- ⚛️ React.js, Next.js
-- 🎨 Tailwind CSS, Material-UI
-- 📱 React Native
+- ⚛️ React.js, Typescript
+- 🎨 Tailwind CSS, Material-UI and other modern frontend-end libraries
 
 ### Backend
-- 🐘 PostgreSQL, MySQL, MongoDB
-- 🏗️ Node.js, Express.js, NestJS
-- 🔥 Firebase, Supabase
+- 🐘 PostgreSQL, MongoDB
+- 🏗️ Node.js, Express.js,
+- 🔥 Supabase, clerk
 
 ### DevOps & Tools
-- ☁️ AWS, Vercel, Netlify
+- ☁️ Vercel, Netlify
 - 🐳 Docker, CI/CD (GitHub Actions)
 - 🛠️ Postman, Figma, Jupyter Notebooks
 
