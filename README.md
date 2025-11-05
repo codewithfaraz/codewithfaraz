@@ -29,16 +29,15 @@ I love working on:
 - 🖥️ SaaS products for individuals and businesses
 
 ## 📫 Let's Connect!
-- 🌐 [Portfolio Website](#) _(Coming Soon)_
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
-- 📂 [GitHub](https://github.com/yourhandle)
-- 📧 faraz.maqsood@example.com
+- 🌐 [Portfolio Website](https://farazdev.site) _(Coming Soon)_
+- 🐦 [Twitter](https://twitter.com/faraz_2001)
+- 💼 [LinkedIn](https://linkedin.com/in/y)
+- 📂 [GitHub](https://github.com/codewithfaraz)
+- 📧 farazmaqsood97@gmail.com
 
 ## 🔥 Fun Facts
-- 🎮 I love gaming and exploring new indie titles.
 - 🎵 Music is my coding fuel.
-- ✈️ Traveling and photography are my escape from the screen.
+
 
 Let's build something amazing together! 🚀
 
