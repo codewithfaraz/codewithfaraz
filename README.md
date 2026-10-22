@@ -117,8 +117,8 @@ National University of Computer and Emerging Sciences (**FAST-NUCES**) · 2021 �
 
 - 💼 **LinkedIn:** [faraz-maqsood](https://www.linkedin.com/in/faraz-maqsood-8a153327b/)
 - 📧 **Email:** [farazmaqsood97@gmail.com](mailto:farazmaqsood97@gmail.com)
-- 🌐 **Portfolio:** [farazdev.site](https://farazdev.site)
-- 🐦 **X (Twitter):** [@faraz_2001](https://x.com/faraz_2001)
+- 🌐 **Portfolio:** [farazdev.site](https://farazdev.vercel.app/)
+- 🐦 **X (Twitter):** [@faraz_2001](https://x.com/TechWithFaraz)
 - 📍 **Location:** Lahore, Pakistan
 
 <p align="center"><b>Let's build something amazing together! 🚀</b></p>
